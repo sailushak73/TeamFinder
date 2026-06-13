@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const messageAPI = axios.create({
-  baseURL: "http://localhost:5000/api/messages",
+  baseURL: "https://teamfinder-139w.onrender.com/api/messages",
 });
 
 export default messageAPI;

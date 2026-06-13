@@ -23,7 +23,7 @@ function EditProfile() {
 
     try {
         const res = await axios.put(
-        `http://localhost:5000/api/auth/profile/${user._id || user.id}`,
+        `https://teamfinder-139w.onrender.com/api/auth/profile/${user._id || user.id}`,
         {
           college,
           year,
