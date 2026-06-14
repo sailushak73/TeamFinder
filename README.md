@@ -31,19 +31,19 @@ https://teamfinder-l39w.onrender.com
 
 ### Landing Page
 
-![Landing Page](screenshots/landing-page.png)
+![Landing Page](screenshots/landingpage.png)
 
 ### Team Feed
 
-![Team Feed](screenshots/team-feed.png)
+![Team Feed](screenshots/teamfeed.png)
 
 ### User Profile
 
-![User Profile](screenshots/user-profile.png)
+![User Profile](screenshots/profile.png)
 
 ### Join Requests
 
-![Join Requests](screenshots/join-requests.png)
+![Join Requests](screenshots/joinrequest.png)
 
 ---
 
